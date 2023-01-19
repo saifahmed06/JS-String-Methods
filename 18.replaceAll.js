@@ -1,5 +1,5 @@
 // 18. replaceAll
 
-let n13 = "America";
+let country = "America";
 
-console.log(n13.replaceAll("a", "i"));
+console.log(country.replaceAll("a", "i"));

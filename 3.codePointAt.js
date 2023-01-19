@@ -1,4 +1,5 @@
-let names = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+//3.codePoint: 
+let names = "MohammedSaifAhmed";
 
 let result = names.codePointAt(0);
 let result1 = names.charCodeAt(0);

@@ -1,4 +1,4 @@
-//6.fromCharCode.js
+//6.fromCharCode:By taking UniCode numbers it gives alphabets
 let stng= "Saif"
 console.log(stng.charCodeAt(0))
 console.log(stng.charCodeAt(1))
